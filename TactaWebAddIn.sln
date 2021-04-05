@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TactaWebAddIn", "TactaWebAddIn\TactaWebAddIn.csproj", "{27A3014C-3EE7-4E10-A7CF-20F96D2602AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TactaWebAddInWeb", "TactaWebAddInWeb\TactaWebAddInWeb.csproj", "{98CD44FA-7697-40BB-9503-09B7A26654F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A3014C-3EE7-4E10-A7CF-20F96D2602AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A3014C-3EE7-4E10-A7CF-20F96D2602AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A3014C-3EE7-4E10-A7CF-20F96D2602AE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{27A3014C-3EE7-4E10-A7CF-20F96D2602AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A3014C-3EE7-4E10-A7CF-20F96D2602AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A3014C-3EE7-4E10-A7CF-20F96D2602AE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{98CD44FA-7697-40BB-9503-09B7A26654F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CD44FA-7697-40BB-9503-09B7A26654F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CD44FA-7697-40BB-9503-09B7A26654F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CD44FA-7697-40BB-9503-09B7A26654F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FAEA862-EB4B-4083-B15F-6F5EDA89CE55}
+	EndGlobalSection
+EndGlobal
